@@ -440,3 +440,5 @@
 - Kelvin
 - James B
 - Sven Abelsson Runing
+- Sean Kross
+- Harul
